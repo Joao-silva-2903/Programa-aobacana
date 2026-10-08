@@ -1,5 +1,5 @@
 # Programassao_bacana
-Programação 2027/2027
+Programação 2026/2027
 P5
 João Silva 140437
 Rodrigo Calado 124716
